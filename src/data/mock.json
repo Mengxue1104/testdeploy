@@ -1,0 +1,158 @@
+{
+  "users": {
+    "-Mv7dk_5Dzf8QZZwrICn": {
+      "id": "8d71907c-146b-4fca-952b-2c681b2c4adf",
+      "fullname": "Alec Devote",
+      "avatar": "https://robohash.org/quosinnobis.png?size=500x500&set=set1"
+    },
+    "-Mv7dk_6K_PAo6kxDC6w": {
+      "id": "03769009-e35c-40c5-b6a3-39b5f38fffbf",
+      "fullname": "Ajay Sargeant",
+      "avatar": "https://robohash.org/voluptasinciduntillo.png?size=500x500&set=set1"
+    },
+    "-Mv7dk_7f1gCz20p-WJc": {
+      "id": "62f2816e-aaed-4836-a5f1-f23dd209b5da",
+      "fullname": "Lianna Munks",
+      "avatar": "https://robohash.org/voluptatemquiasperiores.png?size=500x500&set=set1"
+    },
+    "-Mv7dk_8NPeOCypF0eX1": {
+      "id": "2c9c740c-6415-4baf-9af6-af13764bee77",
+      "fullname": "Pennie Parsonage",
+      "avatar": "https://robohash.org/consequaturautpariatur.png?size=500x500&set=set1"
+    },
+    "-Mv7dk_9pOslPR4XV7YY": {
+      "id": "c5145677-e9e9-4b13-a856-cc4f19b74553",
+      "fullname": "Townsend Blanchflower",
+      "avatar": "https://robohash.org/doloresutab.png?size=500x500&set=set1"
+    },
+    "-Mv7dk_ApeOkU7Gnm1kX": {
+      "id": "9b740157-5a5e-4162-97f7-3b4fd5a5b679",
+      "fullname": "Leyla Haddrell",
+      "avatar": "https://robohash.org/veroreiciendisipsam.png?size=500x500&set=set1"
+    },
+    "-Mv7dk_BegWiAP-r6QnL": {
+      "id": "1794e723-14fa-4ac0-9157-5610f497938e",
+      "fullname": "Rivi Hymor",
+      "avatar": "https://robohash.org/cumquefugafacilis.png?size=500x500&set=set1"
+    },
+    "-Mv7dk_C_FKlHewOKpT6": {
+      "id": "0806173c-bab9-4f90-974f-ce1f2c518783",
+      "fullname": "Erminie Adamkiewicz",
+      "avatar": "https://robohash.org/quasquoea.png?size=500x500&set=set1"
+    },
+    "-Mv7dk_Du7wx-DzwgAEs": {
+      "id": "a571fa21-8c00-41fc-9dcb-ffbbc2784429",
+      "fullname": "Clemmie Whitehouse",
+      "avatar": "https://robohash.org/deseruntquasiut.png?size=500x500&set=set1"
+    },
+    "-Mv7dk_FGaA4IBdUGiqj": {
+      "id": "e71c6243-900d-4561-ba80-183738a3a554",
+      "fullname": "Nana Halwell",
+      "avatar": "https://robohash.org/sedilloamet.png?size=500x500&set=set1"
+    }
+  },
+  "purchase": {
+    "-Mv7dk_5Dzf8QZZwrICn": {
+      "id": "8d71907c-146b-4fca-952b-2c681b2c4adf",
+      "fullname": "Alec Devote",
+      "avatar": "https://robohash.org/quosinnobis.png?size=500x500&set=set1"
+    },
+    "-Mv7dk_6K_PAo6kxDC6w": {
+      "id": "03769009-e35c-40c5-b6a3-39b5f38fffbf",
+      "fullname": "Ajay Sargeant",
+      "avatar": "https://robohash.org/voluptasinciduntillo.png?size=500x500&set=set1"
+    },
+    "-Mv7dk_7f1gCz20p-WJc": {
+      "id": "62f2816e-aaed-4836-a5f1-f23dd209b5da",
+      "fullname": "Lianna Munks",
+      "avatar": "https://robohash.org/voluptatemquiasperiores.png?size=500x500&set=set1"
+    },
+    "-Mv7dk_8NPeOCypF0eX1": {
+      "id": "2c9c740c-6415-4baf-9af6-af13764bee77",
+      "fullname": "Pennie Parsonage",
+      "avatar": "https://robohash.org/consequaturautpariatur.png?size=500x500&set=set1"
+    },
+    "-Mv7dk_9pOslPR4XV7YY": {
+      "id": "c5145677-e9e9-4b13-a856-cc4f19b74553",
+      "fullname": "Townsend Blanchflower",
+      "avatar": "https://robohash.org/doloresutab.png?size=500x500&set=set1"
+    },
+    "-Mv7dk_ApeOkU7Gnm1kX": {
+      "id": "9b740157-5a5e-4162-97f7-3b4fd5a5b679",
+      "fullname": "Leyla Haddrell",
+      "avatar": "https://robohash.org/veroreiciendisipsam.png?size=500x500&set=set1"
+    },
+    "-Mv7dk_BegWiAP-r6QnL": {
+      "id": "1794e723-14fa-4ac0-9157-5610f497938e",
+      "fullname": "Rivi Hymor",
+      "avatar": "https://robohash.org/cumquefugafacilis.png?size=500x500&set=set1"
+    },
+    "-Mv7dk_C_FKlHewOKpT6": {
+      "id": "0806173c-bab9-4f90-974f-ce1f2c518783",
+      "fullname": "Erminie Adamkiewicz",
+      "avatar": "https://robohash.org/quasquoea.png?size=500x500&set=set1"
+    },
+    "-Mv7dk_Du7wx-DzwgAEs": {
+      "id": "a571fa21-8c00-41fc-9dcb-ffbbc2784429",
+      "fullname": "Clemmie Whitehouse",
+      "avatar": "https://robohash.org/deseruntquasiut.png?size=500x500&set=set1"
+    },
+    "-Mv7dk_FGaA4IBdUGiqj": {
+      "id": "e71c6243-900d-4561-ba80-183738a3a554",
+      "fullname": "Nana Halwell",
+      "avatar": "https://robohash.org/sedilloamet.png?size=500x500&set=set1"
+    }
+  },
+  "inventory": {
+    "-Mv7dk_5Dzf8QZZwrICn": {
+      "id": "8d71907c-146b-4fca-952b-2c681b2c4adf",
+      "fullname": "Alec Devote",
+      "avatar": "https://robohash.org/quosinnobis.png?size=500x500&set=set1"
+    },
+    "-Mv7dk_6K_PAo6kxDC6w": {
+      "id": "03769009-e35c-40c5-b6a3-39b5f38fffbf",
+      "fullname": "Ajay Sargeant",
+      "avatar": "https://robohash.org/voluptasinciduntillo.png?size=500x500&set=set1"
+    },
+    "-Mv7dk_7f1gCz20p-WJc": {
+      "id": "62f2816e-aaed-4836-a5f1-f23dd209b5da",
+      "fullname": "Lianna Munks",
+      "avatar": "https://robohash.org/voluptatemquiasperiores.png?size=500x500&set=set1"
+    },
+    "-Mv7dk_8NPeOCypF0eX1": {
+      "id": "2c9c740c-6415-4baf-9af6-af13764bee77",
+      "fullname": "Pennie Parsonage",
+      "avatar": "https://robohash.org/consequaturautpariatur.png?size=500x500&set=set1"
+    },
+    "-Mv7dk_9pOslPR4XV7YY": {
+      "id": "c5145677-e9e9-4b13-a856-cc4f19b74553",
+      "fullname": "Townsend Blanchflower",
+      "avatar": "https://robohash.org/doloresutab.png?size=500x500&set=set1"
+    },
+    "-Mv7dk_ApeOkU7Gnm1kX": {
+      "id": "9b740157-5a5e-4162-97f7-3b4fd5a5b679",
+      "fullname": "Leyla Haddrell",
+      "avatar": "https://robohash.org/veroreiciendisipsam.png?size=500x500&set=set1"
+    },
+    "-Mv7dk_BegWiAP-r6QnL": {
+      "id": "1794e723-14fa-4ac0-9157-5610f497938e",
+      "fullname": "Rivi Hymor",
+      "avatar": "https://robohash.org/cumquefugafacilis.png?size=500x500&set=set1"
+    },
+    "-Mv7dk_C_FKlHewOKpT6": {
+      "id": "0806173c-bab9-4f90-974f-ce1f2c518783",
+      "fullname": "Erminie Adamkiewicz",
+      "avatar": "https://robohash.org/quasquoea.png?size=500x500&set=set1"
+    },
+    "-Mv7dk_Du7wx-DzwgAEs": {
+      "id": "a571fa21-8c00-41fc-9dcb-ffbbc2784429",
+      "fullname": "Clemmie Whitehouse",
+      "avatar": "https://robohash.org/deseruntquasiut.png?size=500x500&set=set1"
+    },
+    "-Mv7dk_FGaA4IBdUGiqj": {
+      "id": "e71c6243-900d-4561-ba80-183738a3a554",
+      "fullname": "Nana Halwell",
+      "avatar": "https://robohash.org/sedilloamet.png?size=500x500&set=set1"
+    }
+  }
+}
