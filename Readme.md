@@ -1,4 +1,5 @@
-# Firebase Real Time Database
+### class 1
+### Firebase Real Time Database
 
 ### NPM Packages to install
 - installing firebase
@@ -42,10 +43,8 @@ Kill process parcel dev server
 
 
 
-
 ### class 2
-
-# Firebase Real Time Database
+###  Firebase Real Time Database
 
 ### Initialize Project Folder to Use NPM 
 - on the command line run the following command.
